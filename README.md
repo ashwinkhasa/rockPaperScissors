@@ -25,10 +25,10 @@ A browser-based **Rock Paper Scissors** game to play against the computer and te
 
 ## 📸 Preview
 
-![Game screenshot](images/welcome_screen.png)
+![Game screenshot](images/home_screen.png)
 ![Game screenshot](images/game_screen1.png)
 ![Game screenshot](images/game_screen2.png)
-![Game screenshot](images/result_screen.png)
+![Game screenshot](images/winner_screen.png)
 
 
 ---
